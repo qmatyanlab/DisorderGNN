@@ -1,0 +1,1 @@
+from .E3NN import PeriodicNetwork
